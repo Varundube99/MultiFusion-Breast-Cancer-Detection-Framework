@@ -141,8 +141,8 @@ The framework achieved the following classification accuracy on the evaluated da
 | Dataset | Imaging Modality | Accuracy |
 |---|---|---:|
 | **BreakHis** | Histopathology | **98.04%** |
-| **BUSI** | Ultrasound | **95.87%** |
-| **INbreast** | Mammography | **95.60%** |
+| **BUSI** | Ultrasound | **96.87%** |
+
 
 These results demonstrate strong classification performance across three heterogeneous breast imaging datasets and provide an initial evaluation of the framework across different imaging modalities.
 
@@ -411,8 +411,10 @@ are being reserved for the associated research work.
 🔬 Research Enthusiast
 
 ### GitHub
-
 **[@Varundube99](https://github.com/Varundube99)**
+
+### Mail
+📧 **Email:** varundube99@gmail.com
 
 ---
 
